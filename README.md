@@ -18,11 +18,15 @@
 - “互联网＋”大赛、大创校级三等奖
 - CSP中国计算机学会能力认证全国前18%
 
+
+
 # 项目经历情况
 
 ## 河北大学计算机机房门禁系统—服务河北大学公共课教学（已部署在校园，曾6天内服务同校6300+名学生参加机房考试）
 
 <img src="https://gitee.com/SunnyBoy-WYH/typora_img/raw/master/image-20210323160220102.png" alt="image-20210323160220102" style="zoom:67%;" />
+
+<img src="https://gitee.com/SunnyBoy-WYH/typora_img/raw/master/image-20210323172320602.png" alt="image-20210323172320602" style="zoom:67%;" />
 
 - 在项目中负责进行整个Android App以及Web后台设备激活认证系统开发，门禁端主要核验方式为人脸识别+时间比对。在校园官方搭建的自有GitLab上进行CI/CD和版本迭代
 - 本系统已自2020年9月至今在河北大学部署上线，部署位置为主楼、逸夫楼等五个200人次机房，经多次版本迭代，表现良好。以2020.9.6-2020.9.12为例，服务6300+人集中考试。而在本学期正服务8500+人上机、
@@ -35,6 +39,8 @@
 
 
 <img src="https://gitee.com/SunnyBoy-WYH/typora_img/raw/master/IMG_008.jpg" alt="IMG_008" style="zoom:67%;" />
+
+<img src="https://gitee.com/SunnyBoy-WYH/typora_img/raw/master/image-20210323171057893.png" alt="image-20210323171057893" style="zoom: 33%;" />
 
 
 
