@@ -5,7 +5,7 @@
 
 平时热爱写博客，在分享知识的同时，也是对自己学习成果的复盘。
 
-此界面为个人介绍主页，文章常发在CSDN博客上https://blog.csdn.net/weixin_43889841
+此界面为个人介绍主页，文章常发在CSDN博客上，原创文章379篇，访问量41w+，获得关注数量548，地址https://blog.csdn.net/weixin_43889841
 
 <img src="https://gitee.com/SunnyBoy-WYH/typora_img/raw/master/image-20210323161608733.png" alt="image-20210323161608733" style="zoom:50%;" />
 
